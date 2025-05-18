@@ -57,7 +57,7 @@ The main features.
 - **Advanced Leakage Estimation for Disassembly Analysis**: Perform side channel leakage estimation using advanced DL models.
 
 ## Citation
-If you find this code and data useful for your research, please cite the following work.
+If you use this code or data for your research, please cite the following paper.
 ```bibtex
 @article{alabdulwahab2025advSCEval,
   journal = {ACM Trans. Softw. Eng. Methodol.},
