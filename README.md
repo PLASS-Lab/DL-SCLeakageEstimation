@@ -59,7 +59,7 @@ The main features.
 ## Citation
 If you find this code and data useful for your research, please cite the following work.
 ```bibtex
-@article{park2025evalHiding,
+@article{alabdulwahab2025advancedSCEval,
   journal = {ACM Trans. Softw. Eng. Methodol.},
   title = {Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling},
   doi = {10.1145/3734219},
