@@ -10,8 +10,8 @@
 </p>
 
 This repository contains the code and the dataset for the paper:
->Title: Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling
->Journal: ACM Transactions on Software Engineering and Methodology
+>Title: Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling \
+>Journal: ACM Transactions on Software Engineering and Methodology \
 >DOI: [10.1145/3734219](https://doi.org/10.1145/3734219)
 
 ## About
