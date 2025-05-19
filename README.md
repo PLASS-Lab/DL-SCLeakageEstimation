@@ -10,9 +10,7 @@
 </p>
 
 This repository contains the code and the dataset for the paper:
->Title: Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling \
->Journal: ACM Transactions on Software Engineering and Methodology \
->DOI: [10.1145/3734219](https://doi.org/10.1145/3734219)
+[Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling](https://doi.org/10.1145/3734219)
 
 ## About
 The main objective is to create a refined dataset, then use it to train DL-based side channel leakage estimaiton models. These models were enhanced using contextual embedding and attention layers.
@@ -60,6 +58,9 @@ The main features.
 
 ## Citation
 If you use this code or data for your research, please cite the following paper.
+>Title: Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling \
+>Journal: ACM Transactions on Software Engineering and Methodology \
+>DOI: [10.1145/3734219](https://doi.org/10.1145/3734219)
 ```bibtex
 @article{alabdulwahab2025advSCEval,
   author = {Alabdulwahab, Saleh and Kim, JaeCheol and Kim, Young-Tak and Son, Yunsik},
